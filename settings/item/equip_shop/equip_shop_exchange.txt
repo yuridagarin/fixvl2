@@ -1,0 +1,1 @@
+ID	Type	Title	Remark	BaguaFlag	SpecialOpStr	SpecialOpDesc	BangdingFlag	BatchNum	LimitTaskValue_0	LimitTaskValue_1	CostTaskValue_0	LimitDesc	CostItem_0	CostItem_1	CostItem_2	CostItem_3	CostItem_4	CostVMoney_0	CostVMoney_1	CostVMoney_2	StatKey

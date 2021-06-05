@@ -1,0 +1,1 @@
+ID	Title	AwrdItem	NeedSex	NeedBody	NeedRoute	AwardTimes	GlobalMsg	ExchangeMode	TimeLimitHours	StatKey

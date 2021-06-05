@@ -1,0 +1,2 @@
+- Tách nhánh ra trước khi làm
+- Nhánh release phải được merge từ master. Sau khi merge sẽ có thể chạy trực tiếp trên server.
